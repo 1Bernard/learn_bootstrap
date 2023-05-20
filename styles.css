@@ -1,0 +1,21 @@
+body{
+  background-color: #ddd;
+}
+
+.header {
+  height: 40px;
+}
+
+.content {
+  min-height: 500px;
+}
+
+.main-content {
+  background-color: #fff;
+  min-height: 500px;
+  border: 1px solid;
+}
+
+.footer {
+  height: 40px;
+}
